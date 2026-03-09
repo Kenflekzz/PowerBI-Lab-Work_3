@@ -5,3 +5,4 @@
 ## Laboratory Title: Laboratory Work 3 - Merged Data, DAX, and DAX Function Insights
 
 ## PDF Documentation
+PDF Link: https://drive.google.com/file/d/12tXdoM65eglJCwclZ8Yca-xIQjM4m15u/view?usp=sharing
